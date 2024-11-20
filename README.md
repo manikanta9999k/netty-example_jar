@@ -22,3 +22,4 @@ To create a project from your archetype use:
     mvn archetype:generate -DarchetypeCatalog=local
 
 and select yours.
+this is the additional line
